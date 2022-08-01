@@ -1,0 +1,17 @@
+#myhome{
+    background-image:  linear-gradient( rgba(0, 0, 0, 0.219), rgba(0, 0, 0, 0.23) ),url(./images/wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+background-size: cover;
+}
+
+#contents{
+    padding-top: 100px;
+}
+
+.header{
+    text-align: center;
+   color: rgb(21, 238, 169);
+   text-shadow: 2px 2px #FF0000;
+}
